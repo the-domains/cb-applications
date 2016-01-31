@@ -1,0 +1,28 @@
+name: CB Applications
+favicon: null
+layout_spectrum: 0.3313008928671479
+typography_spectrum: 0.9993262500502169
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5452947886660695
+  lightness: 0.3278327954467386
+  saturation: 0.4037009268067777
+  rhythmicContrast: 0.6552576925605536
+purpose: []
