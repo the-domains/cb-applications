@@ -2,6 +2,7 @@ name: CB Applications
 favicon: null
 layout_spectrum: 0.3313008928671479
 typography_spectrum: 0.9993262500502169
+title: CB Applications
 cta:
   domain: null
   bucket: null
