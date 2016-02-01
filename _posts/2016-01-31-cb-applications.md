@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Data management solutions for your small business.
-datePublished: '2016-02-01T01:43:40.428Z'
-dateModified: '2016-02-01T01:43:37.073Z'
-title: CB Applications
+datePublished: '2016-02-01T21:39:45.389Z'
+dateModified: '2016-02-01T21:39:41.869Z'
+title: "CB Applications\_"
 author: []
 sourcePath: _posts/2016-01-31-cb-applications.md
 published: true
@@ -22,6 +22,8 @@ url: cb-applications/index.html
 _type: Article
 
 ---
-CB Applications 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f99b4da8-f984-400f-a99e-607198acbc9a.jpg)
 
-Hi Darrell and Janice!
+# CB Applications 
+
+Data management solutions for your business.
