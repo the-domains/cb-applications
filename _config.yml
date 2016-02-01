@@ -1,6 +1,6 @@
 name: CB Applications
 favicon: null
-layout_spectrum: 0.3313008928671479
+layout_spectrum: 0.99518
 typography_spectrum: 0.9993262500502169
 title: CB Applications
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
