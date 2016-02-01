@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Data management solutions for your small business.
-datePublished: '2016-02-01T22:56:20.672Z'
-dateModified: '2016-02-01T22:56:18.658Z'
+datePublished: '2016-02-01T23:42:04.045Z'
+dateModified: '2016-02-01T23:42:01.418Z'
 title: "CB Applications\_"
 author: []
 sourcePath: _posts/2016-01-31-cb-applications.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: cb-applications/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f99b4da8-f984-400f-a99e-607198acbc9a.jpg)
