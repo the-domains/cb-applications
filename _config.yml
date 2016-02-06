@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.75
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#000132'
-    - '#0139ad'
-    - '#692d00'
-    - '#bf5f00'
-    - '#dfb58c'
   lightness: 0.5
+  brandColors:
+    - '#4B6FAB'
+    - '#7F0D16'
+    - '#FAE8C7'
+    - '#885C43'
+    - '#425B5D'
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: CB Applications
 favicon: null
+name: CB Applications
 opengraph:
   image: null
   type: null
