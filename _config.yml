@@ -1,5 +1,8 @@
+name: CB Applications
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.83799
 title: CB Applications
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.75
-  lightness: 0.5
   brandColors:
     - '#4B6FAB'
     - '#7F0D16'
     - '#FAE8C7'
     - '#885C43'
     - '#425B5D'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: CB Applications
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.83799
-layout_spectrum: 1
+purpose: []
